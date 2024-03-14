@@ -3,8 +3,6 @@
 The main objectives of this case study are as follows:
 
 * To apply data preprocessing and preparation techniques in order to obtain clean data (EDA).*
-* To build machine learning models able to predict house price based on house features.
-* To analyze and compare models performance in order to choose the best model.
 * This project delves into Amazon sales data to uncover insights and solutions
 • In This Project There is Mainly used to identify Best sales in terms of Men or women and States
 • By employing various analytical methods, we identify the most effective approaches to predict sales trends.
