@@ -1,7 +1,7 @@
 # AMAZON (Data Analyst) PROJECT
 ## About Project
 
-![image]([https://github.com/VishalMurya/Amazom-Data-Analysis-/assets/146605505/c2a73c04-2d2f-4ab3-8a36-ea21f1383842](https://images.newscientist.com/wp-content/uploads/2023/03/09122342/SEI_147530907.jpg?width=1200))
+![image]([https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23935561/acastro_STK103__04.jpg)
 
 ### The main objectives of this case study are as follows:
 
