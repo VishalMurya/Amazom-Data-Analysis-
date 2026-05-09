@@ -9,7 +9,7 @@
 * Investigate Amazon sales data to extract valuable insights and propose solutions. This analysis aims to uncover patterns, trends, and correlations within the sales data.* 
 * Focus on identifying sales patterns based on gender and geographical location. Specifically, we aim to determine the best-performing products in terms of sales among men and women across different states.
 
-#  HI  This is my amazon project
+# HI  This is my amazon project
 
 
 
